@@ -1,2 +1,2 @@
 # darshan_chatbot
-This is my first project on GitHub
+a super bot which uses gemini api

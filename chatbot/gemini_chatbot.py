@@ -2,7 +2,7 @@
 import google.generativeai as genai
 import textwrap 
 
-genai.configure(api_key="AIzaSyDEp34UyitcIxMUhAdiZW5bM05jh_PThBw")
+genai.configure(api_key="your_api_key")
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 chat = model.start_chat(history=[])
